@@ -1,80 +1,82 @@
 # Hi, I'm Sai Gautam 👋
 
-### AI Engineer | Data Engineer | Machine Learning Engineer
+## AI Engineer | Data Engineer | Machine Learning Engineer
 
 🎓 **M.S. in Applied Data Intelligence**  
 San Jose State University
 
-I'm passionate about building **end-to-end AI systems** using **Large Language Models (LLMs), Agentic AI, Machine Learning, Retrieval-Augmented Generation (RAG), and Cloud Data Engineering**.
+I'm passionate about building **end-to-end AI systems** that combine **Large Language Models (LLMs), Agentic AI, Machine Learning, Retrieval-Augmented Generation (RAG), Cloud Data Engineering, and Analytics** to solve real-world problems.
 
-My projects focus on solving real-world problems by combining intelligent AI workflows, scalable cloud architectures, data pipelines, and analytics into production-ready applications.
-
----
-
-## 🚀 About Me
-
-- 🤖 Building AI-powered applications with LLMs and Agentic AI
-- ☁️ Designing scalable cloud-native data engineering pipelines
-- 📊 Developing machine learning and analytics solutions
-- 🧠 Exploring Generative AI, RAG, and Multi-Agent Systems
-- 💡 Passionate about transforming data into intelligent systems
+My projects focus on developing intelligent applications, scalable data pipelines, multi-agent systems, generative AI solutions, and production-ready cloud architectures.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-**Languages**
-
-`Python` • `SQL` • `JavaScript`
-
-**AI & Machine Learning**
-
-`TensorFlow` • `PyTorch` • `Scikit-learn` • `Hugging Face`
-
-**LLMs & AI**
-
-`Gemini` • `Groq` • `CrewAI` • `FastAPI` • `RAG`
-
-**Data Engineering**
-
-`Apache Airflow` • `BigQuery` • `Google Cloud Storage` • `ETL`
-
-**Cloud & Deployment**
-
-`Google Cloud Platform` • `Vercel` • `GitHub Actions`
-
-**Analytics**
-
-`Power BI` • `Grafana` • `Pandas` • `NumPy`
+| Project | Description |
+|---------|-------------|
+| 📰 **[NewsAgent AI](https://github.com/saigautam9/news-agent-ai)** | Multi-agent AI news intelligence platform using FastAPI, Gemini, Groq, GitHub Actions, Telegram Bot, and Vercel. |
+| 🧠 **[Multimodal Knowledge Retrieval](https://github.com/saigautam9/multimodal-knowledge-retrieval)** | Multimodal Retrieval-Augmented Generation (RAG) system that combines vision and language models for intelligent document search and contextual retrieval. |
+| 🏥 **[Generative AI Healthcare Data Platform](https://github.com/saigautam9/generative-ai-healthcare-data-platform)** | AI-powered healthcare analytics platform leveraging LLMs, intelligent retrieval, and automation for clinical and healthcare insights. |
+| 🧠 **[NL-to-SQL Generation System](https://github.com/saigautam9/nl-to-sql-generation-system)** | Converts natural language into SQL queries using LLMs, FAISS, SQLite, prompt engineering, and semantic search. |
+| ✈️ **[Agentic AI Travel Assistant](https://github.com/saigautam9/agentic-ai-travel-assistant)** | CrewAI-powered travel assistant using specialized AI agents for itinerary planning, hotels, flights, and weather recommendations. |
+| ☁️ **[NYT Cloud Data Engineering Pipeline](https://github.com/saigautam9/NYT-Cloud-Data-Engineering-Pipeline)** | End-to-end cloud data pipeline using Apache Airflow, Google Cloud Storage, BigQuery, and NYT APIs with automated ETL workflows. |
+| 📈 **[Financial Data Streaming Platform](https://github.com/saigautam9/financial-data-streaming-platform)** | Real-time financial analytics platform featuring streaming data pipelines, LSTM stock prediction, and Grafana dashboards. |
+| 🎬 **[CineLite – Text-to-Video Generation](https://github.com/saigautam9/CineLite-Text-to-Video-Generation-using-Generative-AI)** | Comparative implementation and evaluation of state-of-the-art text-to-video generation models including CogVideoX, ModelScope, and AnimateDiff. |
+| ⚽ **[FIFA Player Position Prediction](https://github.com/saigautam9/FIFA-Player-Position-Prediction)** | Machine learning project for predicting football player positions using feature engineering, PySpark, and classification models. |
 
 ---
 
-## ⭐ Featured Projects
+# 💻 Technical Skills
 
-### 📰 NewsAgent AI
-Multi-agent AI news intelligence platform using FastAPI, Gemini, Groq, GitHub Actions, Telegram Bot, and Vercel.
+### Languages
 
-### ✈️ Agentic AI Travel Assistant
-CrewAI-powered travel planner using specialized AI agents for flights, hotels, weather, and itinerary planning.
+Python • SQL • JavaScript
 
-### 🧠 NL-to-SQL Generation System
-LLM-powered application that converts natural language into SQL using FAISS, SQLite, and prompt engineering.
+### Artificial Intelligence & Machine Learning
 
-### ☁️ NYT Cloud Data Engineering Pipeline
-Automated data pipeline built with Apache Airflow, Google Cloud Storage, BigQuery, and Grafana.
+TensorFlow • PyTorch • Scikit-learn • Hugging Face • NLP • Deep Learning
 
-### 📈 Financial Data Streaming Platform
-Real-time financial analytics platform with LSTM forecasting and Grafana dashboards.
+### LLM & Generative AI
 
-### 🎬 CineLite – Text-to-Video Generation
-Comparative study of ModelScope, CogVideoX, and AnimateDiff LoRA for text-to-video generation.
+Large Language Models (LLMs) • Prompt Engineering • Retrieval-Augmented Generation (RAG) • Agentic AI • CrewAI • Gemini • Groq
+
+### Data Engineering
+
+Apache Airflow • ETL Pipelines • Google BigQuery • Google Cloud Storage • Apache Spark • PySpark
+
+### Cloud & Deployment
+
+Google Cloud Platform (GCP) • Vercel • GitHub Actions • FastAPI • Docker
+
+### Analytics & Visualization
+
+Power BI • Grafana • Pandas • NumPy • Matplotlib
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Currently Exploring
 
-📧 Email: **kvnsaigautam@gmail.com**
+- Multi-Agent AI Systems
+- Enterprise LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Cloud Data Engineering
+- Production AI Systems
 
-💼 LinkedIn: **https://www.linkedin.com/in/saigautamk/**
+---
 
-🐙 GitHub: **https://github.com/saigautam9**
+# 📫 Connect With Me
+
+📧 **Email**  
+**kvnsaigautam@gmail.com**
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/saigautamk/
+
+🐙 **GitHub**  
+https://github.com/saigautam9
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
