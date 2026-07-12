@@ -1,7 +1,7 @@
 # Hi, I'm Sai Gautam 👋
 
-## AI Engineer | Data Engineer | Machine Learning Engineer
 
+## Data Scientist | AI & Data Engineer | Data Analyst
 🎓 **M.S. in Applied Data Intelligence**  
 San Jose State University
 
