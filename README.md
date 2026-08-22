@@ -15,6 +15,8 @@ My projects focus on developing intelligent applications, scalable data pipeline
 
 | Project | Description |
 |---------|-------------|
+| 🛡️ **[Real-Time Fraud Detection Pipeline](https://github.com/saigautam9/fraud-detection-pipeline)** | Streaming medallion lakehouse on Databricks serving a governed Snowflake layer and Power BI. Auto Loader ingest with a verified watermark, quarantine-based data quality, Unity Catalog column masks, and a four-configuration Databricks vs Snowflake benchmark — including three documented methodology corrections. |
+| 🏭 **[Manufacturing Analytics Lakehouse](https://github.com/saigautam9/manufacturing-lakehouse)** | Bronze → silver → gold medallion lakehouse on Azure Databricks with SCD Type 2, incremental MERGE upserts, and a Random Forest failure-prediction layer, served through Microsoft Fabric to a Power BI Direct Lake dashboard (OEE, downtime Pareto, predictive-maintenance risk). |
 | 📰 **[NewsAgent AI](https://github.com/saigautam9/news-agent-ai)** | Multi-agent AI news intelligence platform using FastAPI, Gemini, Groq, GitHub Actions, Telegram Bot, and Vercel. |
 | 🧠 **[Multimodal Knowledge Retrieval](https://github.com/saigautam9/multimodal-knowledge-retrieval)** | Multimodal Retrieval-Augmented Generation (RAG) system that combines vision and language models for intelligent document search and contextual retrieval. |
 | 🏥 **[Generative AI Healthcare Data Platform](https://github.com/saigautam9/generative-ai-healthcare-data-platform)** | AI-powered healthcare analytics platform leveraging LLMs, intelligent retrieval, and automation for clinical and healthcare insights. |
@@ -43,7 +45,7 @@ Large Language Models (LLMs) • Prompt Engineering • Retrieval-Augmented Gene
 
 ### Data Engineering
 
-Apache Airflow • ETL Pipelines • Google BigQuery • Google Cloud Storage • Apache Spark • PySpark
+Databricks • Snowflake • Delta Lake • Unity Catalog • Apache Spark • PySpark • Structured Streaming • Apache Airflow • ETL Pipelines • Google BigQuery • Google Cloud Storage
 
 ### Cloud & Deployment
 
