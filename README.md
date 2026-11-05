@@ -74,7 +74,7 @@ Power BI • Grafana • Pandas • NumPy • Matplotlib
 **kvnsaigautam@gmail.com**
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/knagasaig/
+https://www.linkedin.com/in/saigautamk/
 
 🐙 **GitHub**  
 https://github.com/saigautam9
