@@ -1,7 +1,7 @@
 # Hi, I'm Sai Gautam 👋
 
 
-## Data Scientist | AI & Data Engineer | Data Analyst
+## AI & Data Engineer |Data Scientist |  Data Analyst
 🎓 **M.S. in Applied Data Intelligence**  
 San Jose State University
 
@@ -74,7 +74,7 @@ Power BI • Grafana • Pandas • NumPy • Matplotlib
 **kvnsaigautam@gmail.com**
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/saigautamk/
+https://www.linkedin.com/in/knagasaig/
 
 🐙 **GitHub**  
 https://github.com/saigautam9
